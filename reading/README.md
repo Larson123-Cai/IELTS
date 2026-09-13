@@ -1,6 +1,15 @@
 # IELTS Reading 私教
 
-这个目录是 **Reading 对话框** 的工作区。仓库根目录的 `PROFILE.md`、`vocab.md`、`errors.md`、`weekly-plan.md` 由 Writing 对话框维护，四技能共用，这里不另起一套档案。
+这个目录是 **Reading 对话框** 的工作区。
+
+根目录这 4 个文件与 **Writing agent 共享同一份**（只追加行，不改表头、不另起档案）：
+
+| 共享文件 | 用途 |
+| --- | --- |
+| [`PROFILE.md`](../PROFILE.md) | 目标 7.5、约 band 5、每次最多纠 3 处 |
+| [`vocab.md`](../vocab.md) | 四技能共用词表（Reading 的 `Source` 填 `Reading`） |
+| [`errors.md`](../errors.md) | 四技能共用错型 |
+| [`weekly-plan.md`](../weekly-plan.md) | 本周四项清单；Reading 项是「1 篇短文 + 5 个短语」 |
 
 目标：雅思 **7.5**（现在大约 band 5）。阅读同时服务两件事：考场做题，以及把文章里的表达送进写作和日常说话。
 
@@ -26,7 +35,7 @@
 | 语法精度 | 长句拆干、同义替换 |
 | Problem–Solution | 问题与方案是否一一对应 |
 
-生词和短语写入根目录 `vocab.md`（`Source` 填 `Reading`）。做错的题型写入 `errors.md`。本周共享清单里的 Reading 任务是：**1 篇短文 + 记下 5 个有用短语**。
+生词和短语写入共享的 [`vocab.md`](../vocab.md)（`Source` 填 `Reading`）。做错的题型写入共享的 [`errors.md`](../errors.md)。本周 [`weekly-plan.md`](../weekly-plan.md) 里的 Reading 任务是：**1 篇短文 + 记下 5 个有用短语**。这 4 个文件与 Writing 是同一份，Reading 只往表里追加，不改结构。
 
 ## 目录
 
