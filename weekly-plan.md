@@ -20,22 +20,75 @@ Times are **slots**, not a fixed clock. Move them if your workday shifts. Do not
 
 ### Day 1 — Monday 14 September 2026 (write day)
 
-Total: **70–90 min**. Busy floor: Morning + Evening only (~50 min).
+Tomorrow = **3 separate sessions**. Do not do them as one long block. Phone timer is enough.
 
-| Slot | Min | Do this | Output |
+Busy day: skip lunch. Keep morning + evening.
+
+---
+
+#### 1) Morning · 15–20 min · Listening（跟读）
+
+**What “shadow” means / 跟读：** play a sentence → pause → say it out loud like an echo. Not silent reading.
+
+1. Open this page: [Should schoolchildren have jobs?](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214)
+2. Press play. Listen to the **whole** 6 minutes **once**. Do not pause. Do not look up words yet.
+3. Open the transcript on the same page (scroll down). Find these **3 target sentences** (already copied in [listening/2026-09-14.md](listening/2026-09-14.md)):
+   - *A Saturday job is the name we give to part-time work that teenagers do for extra money.*
+   - *A rite of passage is an important stage in a person's life.*
+   - *Some people think working could be detrimental to a schoolchild's academic progress.*
+4. For each sentence: play that bit → pause → say it out loud **twice**.
+5. Tick the 3 boxes in `listening/2026-09-14.md`.
+
+Done = you have **said** 3 sentences, not “understood every word”.
+
+- [ ] Played the audio once
+- [ ] Shadowed the 3 target sentences out loud
+
+---
+
+#### 2) Lunch · 10–15 min · Vocab（你红框里的那条）
+
+**What “5 chunks” means / 5个短语：** not 5 new word lists. Only these 5 ready-made pieces:
+
+| # | Chunk (copy this into your sentence) | 中文 | 你要写的 |
 |---|---|---|---|
-| Morning (commute / before work) | 15–20 | Open [Should schoolchildren have jobs?](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214). Listen **once** with no pause. Shadow **3 sentences** out loud. | Tick below. Write the 3 sentences in [listening/2026-09-14.md](listening/2026-09-14.md) |
-| Lunch | 10–15 | From that page, take 5 chunks: *Saturday job, rite of passage, detrimental, concentrate on, work experience*. Add 1 original sentence per chunk to `vocab.md` (if short on time: 3 sentences covering all 5). | Rows in `vocab.md` |
-| Evening | 25–35 | Timer 25 min. Write **80–120 words**, one PEEL paragraph, in [writing/2026-09-14.md](writing/2026-09-14.md). Then send the paragraph in this chat. | File + send here |
+| 1 | Saturday job | 周末兼职 | 一句完整英文 |
+| 2 | rite of passage | 人生必经阶段 | 一句完整英文 |
+| 3 | detrimental | 有害的 | 一句完整英文 |
+| 4 | concentrate on | 专注于 | 一句完整英文 |
+| 5 | work experience | 工作经验 | 一句完整英文 |
 
-**Monday prompt:** Many people say students should work part-time while studying. Do you agree? Why? Give one real example.
+**How:** open [vocab.md](vocab.md) → section **Monday 14 lunch**. For each item: copy the model, change **person / place / job**. Write your sentence on the `My sentence:` line.
 
-Use at least one: *I tend to agree that…* / *In the short term… in the long run…* / *Take my colleague as an example:…*
+If you only have 10 minutes: do items **1, 3, 4**. Skip 2 and 5.
 
-- [ ] Morning listen + 3 shadow sentences
-- [ ] Lunch vocab (5 chunks)
-- [ ] Evening PEEL 80–120 words
-- [ ] Sent writing to tutor
+- [ ] 5 sentences written (or 3 if busy)
+
+---
+
+#### 3) Evening · 25–35 min · Writing（一段话）
+
+**PEEL = 四句功能，不是四篇作文：**
+
+| Letter | 做什么 | 这一句在干什么 |
+|---|---|---|
+| P | Point | 你同意还是不同意 |
+| E | Explain | 为什么 |
+| E | Example | 一个真人真事（同事/同学/你自己），不要写 *people should* |
+| L | Link | 用一句话扣回题目 |
+
+1. Open [writing/2026-09-14.md](writing/2026-09-14.md)
+2. Start a 25-minute timer. Stop when it rings.
+3. Fill the skeleton in that file (80–120 words). Topic:
+
+> Many people say students should work part-time while studying. Do you agree? Why? Give one real example.
+
+4. Copy the paragraph into **this chat** and send it.
+
+Do not write 4 paragraphs. Do not open a dictionary for more than 2 words.
+
+- [ ] 80–120 words in the file
+- [ ] Sent the same text here
 
 ### Day 2 — Tuesday 15 September 2026 (read + speak day)
 
