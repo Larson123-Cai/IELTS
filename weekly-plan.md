@@ -7,6 +7,78 @@
 - [reading/plan.md](reading/plan.md)
 - [writing/plan.md](writing/plan.md)
 
+**Calendar:** start **Monday 14 September 2026**. Cycle 1, Week 0 (diagnostic).  
+**Lookahead rule:** the next two days are always written in full (slot, minutes, material, output). The rest of the current week is dated and tickable.
+
+Jump: [Next two days](#next-two-days-exact) · [This week 14–20 Sep](#this-week-14-20-sep-2026--cycle-1-week-0)
+
+## Next two days (exact)
+
+Window: **Mon 14 Sep + Tue 15 Sep 2026**. After you finish Monday, this window rolls to Tue–Wed.
+
+Times are **slots**, not a fixed clock. Move them if your workday shifts. Do not skip the output.
+
+### Day 1 — Monday 14 September 2026 (write day)
+
+Total: **70–90 min**. Busy floor: Morning + Evening only (~50 min).
+
+| Slot | Min | Do this | Output |
+|---|---|---|---|
+| Morning (commute / before work) | 15–20 | Open [Should schoolchildren have jobs?](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214). Listen **once** with no pause. Shadow **3 sentences** out loud. | Tick below. Write the 3 sentences in [listening/2026-09-14.md](listening/2026-09-14.md) |
+| Lunch | 10–15 | From that page, take 5 chunks: *Saturday job, rite of passage, detrimental, concentrate on, work experience*. Add 1 original sentence per chunk to `vocab.md` (if short on time: 3 sentences covering all 5). | Rows in `vocab.md` |
+| Evening | 25–35 | Timer 25 min. Write **80–120 words**, one PEEL paragraph, in [writing/2026-09-14.md](writing/2026-09-14.md). Then send the paragraph in this chat. | File + send here |
+
+**Monday prompt:** Many people say students should work part-time while studying. Do you agree? Why? Give one real example.
+
+Use at least one: *I tend to agree that…* / *In the short term… in the long run…* / *Take my colleague as an example:…*
+
+- [ ] Morning listen + 3 shadow sentences
+- [ ] Lunch vocab (5 chunks)
+- [ ] Evening PEEL 80–120 words
+- [ ] Sent writing to tutor
+
+### Day 2 — Tuesday 15 September 2026 (read + speak day)
+
+Total: **65–85 min**. Busy floor: Morning listen + Evening speak (~35 min). Skip lunch if needed; do not skip the recording.
+
+| Slot | Min | Do this | Output |
+|---|---|---|---|
+| Morning | 15–20 | **Same audio** as Monday. Second listen. Shadow Monday’s 3 sentences faster, then add **2 new** sentences. Note 3 words you still miss. | Update [listening/2026-09-14.md](listening/2026-09-14.md) (Tuesday section) |
+| Lunch | 10–15 | Say Monday’s vocab sentences aloud. No new list. | Tick |
+| Evening A | 20 | Read the **introduction + vocabulary box** on the same BBC page (~150–250 words). Write **one** English sentence: the main idea. Copy **3** phrases into `vocab.md` with your own example. Do not translate the whole text. | `vocab.md` + main-idea sentence in [reading/2026-09-15.md](reading/2026-09-15.md) |
+| Evening B | 15 | Record **60 seconds**: *How do you spend a normal weekday?* Listen once. Fix **one** thing. Record again. | Notes in [speaking/2026-09-15.md](speaking/2026-09-15.md) |
+
+- [ ] Morning second listen + 5 shadow sentences
+- [ ] Lunch vocab aloud
+- [ ] Evening main-idea sentence + 3 phrases
+- [ ] Two recordings (first + one repair)
+
+---
+
+## This week (14–20 Sep 2026 · Cycle 1, Week 0)
+
+Goal: prove the blocks work. No full mock. Start **tomorrow (Mon 14)**. Today (Sun 13) is rest / read this page only.
+
+| Date | Skill mix | Exact task | Done |
+|---|---|---|---|
+| **Mon 14** | L + V + W | See [Day 1](#day-1--monday-14-september-2026-write-day). Audio: 6 Minute English *Should schoolchildren have jobs?* Write PEEL 80–120 words: part-time work while studying. | [ ] |
+| **Tue 15** | L + R + S | See [Day 2](#day-2--tuesday-15-september-2026-read--speak-day). Same audio. Read intro. Record weekday routine 60s. | [ ] |
+| **Wed 16** | L + V + W | Morning 15: same audio, only the hardest 60 seconds, shadow 3 lines. Lunch 10: review `vocab.md` (do not add more than 3 chunks). Evening 25: in `writing/2026-09-16.md` — **outline only** then one PEEL: stance + 2 reasons + 1 real example each. Same topic as Monday is allowed. 80–120 words. | [ ] |
+| **Thu 17** | L + R + S | Morning 15: replay 3 muddy sentences from Mon–Wed. Evening 20: next paragraph of the **same** BBC transcript; 1 main-idea sentence + 3 phrases in `reading/2026-09-17.md`. Evening 15: record 60s *What do you do to relax after work?* First take + 1 repair in `speaking/2026-09-17.md`. | [ ] |
+| **Fri 18** | L + E + W | Morning 15: light listen (same episode or silence + shadow from memory). Lunch 15: **Error-loop** — copy 3 lines from `errors.md` and rewrite them. Evening 25: **rewrite Monday** in `writing/2026-09-18-rewrite.md` using **at most 3 fixes**. Do not write a new essay. | [ ] |
+| **Sat 19** | Mock-mini + S + V | 40–50 min: 1 easy listening section **or** 10–12 questions. Prefer a Cambridge Section 1 if you have the book; otherwise a free British Council listening sample. Write score + 5 missed words in `listening/2026-09-19.md`. Then 20 min: 1 min prep + 1 min talk: *Describe a typical working day.* Then 15 min vocab review (old cards only). | [ ] |
+| **Sun 20** | Light + review | 15 min: replay the week’s hardest 60 seconds. 15 min: tick this table; move leftover errors; choose **one** focus for 21–27 Sep (articles / examples / numbers). 20 min optional: reread Monday’s rewrite. Fill next two days (Mon 21 + Tue 22) before you stop. | [ ] |
+
+**Week focus (only one):** complete sentences + one concrete example. Not new textbooks.
+
+**Materials this week (do not add a fourth source):**
+
+1. [BBC 6 Minute English — Should schoolchildren have jobs?](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214)
+2. `vocab.md` / `errors.md`
+3. Your own recordings + writing files under `writing/` `speaking/` `listening/` `reading/`
+
+---
+
 ## Constraints
 
 | Item | Value |
@@ -153,17 +225,3 @@ Official Cambridge tests are for **measurement**, not daily entertainment.
 2. Move 3 leftover errors into next week’s Error-loop
 3. Choose **one** focus for next week (example: articles / examples / numbers)
 4. Do not add extra books as a reward for a good week
-
----
-
-## This week (Cycle 1, Week 0 — diagnostic)
-
-Goal: prove the blocks work. No full mock.
-
-- [ ] **Mon / Wed:** Write 80–120 words on *part-time work while studying* (same topic twice is fine)
-- [ ] **Tue / Thu:** Record one 60-second answer: *How do you spend a normal weekday?*
-- [ ] **Daily commute:** One 6-minute English audio; shadow 3 sentences
-- [ ] **Tue or Thu:** Read 1 short news paragraph; copy 5 phrases into `vocab.md`
-- [ ] **Fri:** Rewrite Monday’s paragraph using only 3 fixes
-- [ ] **Sat:** 1 Listening Section 1 (or 10 minutes of a dialogue) + note 5 missed words
-- [ ] **Sun:** Fill one row in `errors.md`; pick next week’s single focus

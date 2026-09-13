@@ -16,3 +16,5 @@
 - Four skills every week; writing is the slowest skill, so it never gets a full week off
 - Prefer rewrite and review over new volume
 - One 12-week cycle at a time; do not jump materials
+- Calendar start: **Monday 14 September 2026**
+- Always keep the **next two days** exact in `weekly-plan.md` (times, material, output)
