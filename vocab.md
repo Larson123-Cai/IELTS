@@ -7,6 +7,8 @@
 | two days in advance | 48 hours before you need it | 提前两天 | Give me the exact plan two days in advance. | chat 2026-09-13 | 2026-09-13 |
 | time slot | a fixed period you can use | 时间段 | Please use these time slots: 8–10 a.m. and 8–10 p.m. | chat 2026-09-13 | 2026-09-13 |
 | a.m. / p.m. | before noon / after noon | 上午 / 下午 | I can study from 8 to 10 a.m. and from 8 to 10 p.m. | chat 2026-09-13 | 2026-09-13 |
+| What exactly does X mean? | ask for a clear definition | ……到底是什么意思 | What exactly does “3 sentences out loud” mean? | chat 2026-09-13 | 2026-09-13 |
+| make a sentence with | use a word in a new sentence | 用……造句 | Make one sentence with each phrase. | chat 2026-09-13 | 2026-09-13 |
 | Saturday job | part-time work, often at weekends | 周末兼职 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
 | rite of passage | an important stage in a person's life | 成长仪式 / 必经阶段 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
 | detrimental | causing harm | 有害的 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
@@ -15,8 +17,16 @@
 
 ## Monday 14 · 08:20–08:35 (vocab)
 
-**Task:** 5 phrases, 5 sentences. Copy the model. Change the **name / place / job**.  
-Short on time: do 1, 3, 4 only. Stop at **08:35**.
+**这就是全部任务。** 图二红框 = 下面 1–5。
+
+| 说法 | 意思 | 不是 |
+|---|---|---|
+| 5 phrases | 5 个短语：Saturday job 等 | 不是 5 组新单词 |
+| 5 sentences | 每个短语 **造 1 句**，写在 `My sentence:` 后面 | 不是读 Model 5 遍，也不是翻译中文 |
+
+**做法：** 看 Model → 改人名或地点 → 写到 `My sentence:`。句中必须出现该短语。  
+**例子：** Model *My cousin had a Saturday job in a café.* → 你写 *My sister had a Saturday job in a supermarket.*  
+时间不够：只做 1、3、4。**08:35 停。**
 
 1. **Saturday job**（周末兼职）  
    Model: *My cousin had a Saturday job in a café.*  

@@ -21,70 +21,76 @@ No lunch block. Vocab sits in the morning window after listening.
 
 ### Day 1 — Monday 14 September 2026 (write day)
 
-Two clock sessions only. Phone timer. Total **~70 min**.
+**Your two questions — short answers:**
 
-| Clock | Min | Task |
-|---|---|---|
-| **08:00–08:20** | 20 | Listening + shadow |
-| **08:20–08:35** | 15 | 5 vocab sentences |
-| **20:00–20:30** | 30 | One PEEL paragraph, then send it here |
+1. **Audio + 3 sentences out loud** = (A) 整段音频听 **1 遍**，听懂多少算多少，**不要暂停、不要查词**；(B) 然后 **只读** `listening/2026-09-14.md` 里已经写好的 **3 句 target sentences**，**每句出声读 2 遍**。不要自己另找句子。听不懂每一个词也算完成。
+2. **5 phrases + 5 sentences** = 就是图二红框里那 **5 个短语**。每个短语在 `My sentence:` 后面 **造 1 句英文**（句中必须出现这个短语）。一共 5 句。Model 是范例：改人名/地点，不要整句照抄。
 
-If morning is cut short: finish listening; move vocab to **20:00–20:15** and writing to **20:15–20:45**.
+Two clock sessions. Phone timer. Total **~70 min**. Do not study until 10:00.
 
----
+| Clock | 你具体做什么（做完就停） |
+|---|---|
+| **08:00–08:07** | 打开链接，点播放，听到节目结束（约 6 分钟）。不暂停。 |
+| **08:07–08:20** | 打开 `listening/2026-09-14.md`，只读上面的第 1、2、3 句。每句大声读 2 遍。打勾。 |
+| **08:20–08:35** | 打开 `vocab.md` 红框那一节。5 个短语 × 各写 1 句到 `My sentence:`。 |
+| **20:00–20:30** | 打开 `writing/2026-09-14.md`，按骨架写 80–120 词，把同一段发到这个对话框。 |
 
-#### Morning 08:00–08:20 · Listening（跟读）
-
-**Shadow / 跟读：** play a sentence → pause → say it out loud. Not silent reading.
-
-1. At **08:00**, open [Should schoolchildren have jobs?](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214)
-2. Press play. Listen to the **whole** 6 minutes **once**. Do not pause. Do not look up words yet.
-3. Open [listening/2026-09-14.md](listening/2026-09-14.md). Use these 3 target sentences:
-   - *A Saturday job is the name we give to part-time work that teenagers do for extra money.*
-   - *A rite of passage is an important stage in a person's life.*
-   - *Some people think working could be detrimental to a schoolchild's academic progress.*
-4. For each sentence: play that bit → pause → say it out loud **twice**.
-5. Tick the boxes. Stop by **08:20**.
-
-- [ ] 08:00 audio once
-- [ ] 3 sentences out loud
+If 08:00 is late: still do the 6-minute audio + 3 sentences. Move the 5 sentences to **20:00–20:15**; writing starts **20:15**.
 
 ---
 
-#### Morning 08:20–08:35 · Vocab（5 个短语各写一句）
+#### 08:00–08:20 听力 — 逐步（不要发挥）
 
-**Chunk = 短语.** Only these 5. Open [vocab.md](vocab.md) → **Monday 14 · 08:20**. Copy the model, change name/place/job.
+**不要做：** 精听每个词、写笔记、自己挑选句子、默读、查词典。
 
-| # | Chunk | 中文 |
-|---|---|---|
-| 1 | Saturday job | 周末兼职 |
-| 2 | rite of passage | 人生必经阶段 |
-| 3 | detrimental | 有害的 |
-| 4 | concentrate on | 专注于 |
-| 5 | work experience | 工作经验 |
+1. **08:00** 打开：[Should schoolchildren have jobs?](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214)
+2. 点播放。听到 **End of 6 Minute English / 节目结束**。听懂 30% 也继续。
+3. **08:07** 打开 [listening/2026-09-14.md](listening/2026-09-14.md)。**只使用文件里这 3 句**（就是你右边屏幕上那 3 句）：
+   1. *A Saturday job is the name we give to part-time work that teenagers do for extra money.*
+   2. *A rite of passage is an important stage in a person's life.*
+   3. *Some people think working could be detrimental to a schoolchild's academic progress.*
+4. 第 1 句：看着文件，**出声读 2 遍**。第 2 句：出声读 2 遍。第 3 句：出声读 2 遍。嘴动才算。
+5. 在文件里勾 4 个框。**08:20 停。**
 
-If you only have 10 minutes: do **1, 3, 4**. Stop at **08:35**.
+读的时候不要求像录音。卡词也把整句读完。
 
-- [ ] 5 sentences (or 3 if late)
+- [ ] 音频听完 1 遍
+- [ ] 仅 3 句 target sentences，每句出声 2 遍
 
 ---
 
-#### Evening 20:00–20:30 · Writing（一段话）
+#### 08:20–08:35 词汇 — 就是图二红框
 
-**PEEL = 四个功能，不是四篇：** Point 观点 → Explain 为什么 → Example 真人真事 → Link 扣回题目
+**5 phrases** = 下面 5 个（只有这些，不要加第 6 个）。  
+**5 sentences** = 你写 5 句，一句对一个短语。
 
-1. At **20:00**, open [writing/2026-09-14.md](writing/2026-09-14.md)
-2. Timer 25 minutes. Stop when it rings (about **20:25**).
-3. Fill the skeleton (80–120 words):
+打开 [vocab.md](vocab.md) → 标题 **Monday 14 · 08:20–08:35**。
 
-> Many people say students should work part-time while studying. Do you agree? Why? Give one real example.
+对每一条：看 **Model** → 在 **My sentence:** 后面写你的句子 → 句子里 **必须出现** 该短语。
 
-4. By **20:30**, copy the paragraph into **this chat** and send it.
+| 做 | 例子 |
+|---|---|
+| 短语 | Saturday job |
+| 范例（别原样交） | *My cousin had a Saturday job in a café.* |
+| 你可改成 | *My sister had a Saturday job in a supermarket.* |
 
-Do not write 4 paragraphs. Dictionary: at most 2 words.
+时间不够：只写第 **1、3、4** 条。**08:35 停。** 不要背、不要抄卡片、不要翻译整页。
 
-- [ ] 80–120 words in the file
-- [ ] Sent here by 20:30
+- [ ] 5 个 `My sentence:` 已写（或 3 个）
+
+---
+
+#### 20:00–20:30 写作 — 一段话
+
+1. **20:00** 打开 [writing/2026-09-14.md](writing/2026-09-14.md)
+2. 手机定时 25 分钟。
+3. 把文件里的骨架填空，连成 **一段** 80–120 词（不是 4 段）。
+4. **20:30 前** 把同一段粘贴到这个对话框发出。
+
+题目：Many people say students should work part-time while studying. Do you agree? Why? Give one real example.
+
+- [ ] 文件里有段落
+- [ ] 已发到对话框
 
 ### Day 2 — Tuesday 15 September 2026 (read + speak day)
 
