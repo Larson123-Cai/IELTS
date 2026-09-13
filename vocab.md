@@ -5,16 +5,18 @@
 | put [sth] into [a file] | add content to a document | 写入某个文件 | Please put the plan into `weekly-plan.md`. | chat 2026-09-13 | 2026-09-13 |
 | keep a record of | write something down so you can look at it later | 做记录 | I keep a record of my errors in `errors.md`. | chat 2026-09-13 | 2026-09-13 |
 | two days in advance | 48 hours before you need it | 提前两天 | Give me the exact plan two days in advance. | chat 2026-09-13 | 2026-09-13 |
-| Saturday job | part-time work, often at weekends | 周末兼职 | *(fill at lunch Mon 14 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
-| rite of passage | an important stage in a person's life | 成长仪式 / 必经阶段 | *(fill at lunch Mon 14 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
-| detrimental | causing harm | 有害的 | *(fill at lunch Mon 14 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
-| concentrate on | give all your attention to | 专注于 | *(fill at lunch Mon 14 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
-| work experience | time spent working, used as practice | 工作经验 | *(fill at lunch Mon 14 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
+| time slot | a fixed period you can use | 时间段 | Please use these time slots: 8–10 a.m. and 8–10 p.m. | chat 2026-09-13 | 2026-09-13 |
+| a.m. / p.m. | before noon / after noon | 上午 / 下午 | I can study from 8 to 10 a.m. and from 8 to 10 p.m. | chat 2026-09-13 | 2026-09-13 |
+| Saturday job | part-time work, often at weekends | 周末兼职 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
+| rite of passage | an important stage in a person's life | 成长仪式 / 必经阶段 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
+| detrimental | causing harm | 有害的 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
+| concentrate on | give all your attention to | 专注于 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
+| work experience | time spent working, used as practice | 工作经验 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
 
-## Monday 14 lunch (10–15 min)
+## Monday 14 · 08:20–08:35 (vocab)
 
 **Task:** 5 phrases, 5 sentences. Copy the model. Change the **name / place / job**.  
-Busy: do 1, 3, 4 only.
+Short on time: do 1, 3, 4 only. Stop at **08:35**.
 
 1. **Saturday job**（周末兼职）  
    Model: *My cousin had a Saturday job in a café.*  

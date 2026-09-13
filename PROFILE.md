@@ -4,8 +4,8 @@
 - Target: IELTS 7.5
 - Current level: around band 5
 - Horizon: 3–5 years (slow, sustainable)
-- Time: 1–2 hours per day, split into 15–25 minute blocks
-- Context: full-time work; no all-day study
+- Time: 1–2 hours per day, only inside **08:00–10:00** and **20:00–22:00**
+- Context: full-time work; start each block at **08:00** and **20:00**; do not fill the whole 2-hour window
 
 ## Rules
 - Correct at most 3 issues per reply

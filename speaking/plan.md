@@ -11,11 +11,11 @@ Fits [weekly-plan.md](../weekly-plan.md). Default block: **15 minutes**. Always 
 
 ## Week shape
 
-| Day | Task |
-|---|---|
-| Tue | Part 1: work / weekday / study |
-| Thu | Part 1 or easy Part 2 (1 minute prep + 1 minute talk) |
-| Sat | Same Part 2 again, then one Part 3 *why* question |
+| Day | Clock | Task |
+|---|---|---|
+| Tue | **20:20–20:35** | Part 1: work / weekday / study |
+| Thu | **20:20–20:35** | Part 1 or easy Part 2 (1 minute prep + 1 minute talk) |
+| Sat | **20:00–20:20** | Same Part 2 again, then one Part 3 *why* question |
 
 ## By phase
 

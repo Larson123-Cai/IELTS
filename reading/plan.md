@@ -11,11 +11,11 @@ Fits [weekly-plan.md](../weekly-plan.md). Default block: **20 minutes**. One par
 
 ## Week shape
 
-| Day | Task |
-|---|---|
-| Tue | paragraph + main idea |
-| Thu | next paragraph of the same article, or 1 question type |
-| Sat/Sun | optional: 1 Cambridge passage (Phase C+) |
+| Day | Clock | Task |
+|---|---|---|
+| Tue | **20:00–20:20** | paragraph + main idea |
+| Thu | **20:00–20:20** | next paragraph of the same article, or 1 question type |
+| Sat/Sun | optional evening | 1 Cambridge passage (Phase C+) |
 
 ## By phase
 

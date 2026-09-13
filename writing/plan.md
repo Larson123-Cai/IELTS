@@ -12,11 +12,11 @@ Choose one:
 
 ## Week shape
 
-| Day | Task |
-|---|---|
-| Mon | new short piece (same prompt is allowed) |
-| Wed | paragraph or outline: stance + 2 reasons + 1 example each |
-| Fri | rewrite Monday **or** Wednesday using at most 3 fixes |
+| Day | Clock | Task |
+|---|---|---|
+| Mon | **20:00–20:30** | new short piece (same prompt is allowed) |
+| Wed | **20:00–20:25** | paragraph or outline: stance + 2 reasons + 1 example each |
+| Fri | **20:00–20:25** | rewrite Monday **or** Wednesday using at most 3 fixes |
 
 ## PEEL (use until band 6.5 is stable)
 

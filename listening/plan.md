@@ -2,7 +2,7 @@
 
 Fits [weekly-plan.md](../weekly-plan.md). Default block: **15–20 minutes**.
 
-## Each commute block
+## Each morning block (08:00–08:20)
 
 1. Preview 30 seconds: names, numbers, places
 2. Listen once without pausing
@@ -13,11 +13,11 @@ Do not start a new audio if yesterday’s 3 sentences are still muddy.
 
 ## Week shape
 
-| Day | Block |
+| Day | Clock |
 |---|---|
-| Mon–Fri | commute audio (same episode is OK for 2 days) |
-| Sat | 1 exam section **or** 10–15 exam questions |
-| Sun | light replay of the week’s hardest 60 seconds |
+| Mon–Fri | **08:00–08:20** (same episode is OK for 2 days) |
+| Sat | **08:00–08:50** — 1 exam section **or** 10–15 exam questions |
+| Sun | optional **08:00–08:15** — replay the week’s hardest 60 seconds |
 
 ## By phase
 
