@@ -2,13 +2,24 @@
 
 两个对话框是同一位私教体系的两条线，不是两套互不相干的课程。
 
+## 0. 四份共享文件（不要各写一份）
+
+仓库根目录这 4 个文件由 Writing 维护结构，Listening / Reading / Speaking 共用同一份：
+
+- `PROFILE.md` — 目标 7.5、当前约 band 5、每轮最多纠 3 处
+- `vocab.md` — 唯一词汇账
+- `errors.md` — 唯一跨技能错法账
+- `weekly-plan.md` — 本周四项清单（含 Listening: 1 short audio; shadow 3 sentences）
+
+本对话只往 `vocab.md` / `errors.md` **追加行**，或勾选 `weekly-plan.md` 里已有的 Listening 项。不要改表头、不要把 weekly-plan 改成听力专版。
+
 ## 1. 同一周次
 
 Writing 的 Week n 和 Listening 的 Week n 对齐。第 0 周两边都先诊断，不要一边已经 Week 3、另一边还没摸底。
 
 | 周 | Writing 主线 | Listening 主线 | 共用的语言点 |
 | --- | --- | --- | --- |
-| 0 | 作文诊断 | 真题诊断 + 错因 A–H | 填 PROFILE：日期、Academic/GT、每周时间 |
+| 0 | 作文诊断 | 真题诊断 + 错因 A–H | 对照共享 `PROFILE.md`（7.5 / 约 band 5）；考试日期口头告诉两边 |
 | 1 | 一段一事、具体例子 | 看题预判 + Section 1 | 预约/改期/因果链：听得懂，才能写得清 |
 | 2 | Agree / Disagree | 数字、拼写、改口 | *actually / I mean* 后的最终信息 = 写作里的立场要落在最终判断 |
 | 3 | 衔接，少堆连接词 | 连读、弱读 | 弱读虚词 (*this / such / these*) 既是听力坑，也是写作粘句材料 |

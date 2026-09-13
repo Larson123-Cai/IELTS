@@ -2,7 +2,7 @@
 
 > 定位：你是学习者，我是听力私教。目标不是「多刷套题」，而是把 **听得见、听得懂考点、写得对** 练成习惯；雅思分数是这个能力的副产品。
 >
-> 与 Writing 共用周次和 [`PROFILE.md`](../PROFILE.md)。一天如何两线并行，见 [`LINK_WITH_WRITING.md`](./LINK_WITH_WRITING.md)。
+> 与 Writing 共用周次，以及根目录共享的 [`PROFILE.md`](../PROFILE.md) / [`vocab.md`](../vocab.md) / [`errors.md`](../errors.md) / [`weekly-plan.md`](../weekly-plan.md)。Listening **不另写这 4 份**。一天如何两线并行，见 [`LINK_WITH_WRITING.md`](./LINK_WITH_WRITING.md)。
 
 ## 0. 先定起点
 
