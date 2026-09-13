@@ -17,4 +17,6 @@
 - Prefer rewrite and review over new volume
 - One 12-week cycle at a time; do not jump materials
 - Calendar start: **Monday 14 September 2026**
-- Always keep the **next two days** exact in `weekly-plan.md` (times, material, output)
+- Always keep the **next two days** exact in `weekly-plan.md`
+- Every study block must follow the **same format**: clock → open which file → do N times → yes/no → don't → stop time
+- Do not use shorthand like “audio + 3 sentences” unless the yes/no table is next to it

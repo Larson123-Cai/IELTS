@@ -9,6 +9,8 @@
 | a.m. / p.m. | before noon / after noon | 上午 / 下午 | I can study from 8 to 10 a.m. and from 8 to 10 p.m. | chat 2026-09-13 | 2026-09-13 |
 | What exactly does X mean? | ask for a clear definition | ……到底是什么意思 | What exactly does “3 sentences out loud” mean? | chat 2026-09-13 | 2026-09-13 |
 | make a sentence with | use a word in a new sentence | 用……造句 | Make one sentence with each phrase. | chat 2026-09-13 | 2026-09-13 |
+| update X to match Y | change a file so it follows the final agreement | 按最终稿改文件 | Please update the weekly plan to match what we just agreed. | chat 2026-09-13 | 2026-09-13 |
+| in the same format | using the same layout next time | 用同样的方式 | Next time, give the study plan in the same format. | chat 2026-09-13 | 2026-09-13 |
 | Saturday job | part-time work, often at weekends | 周末兼职 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
 | rite of passage | an important stage in a person's life | 成长仪式 / 必经阶段 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |
 | detrimental | causing harm | 有害的 | *(fill Mon 14 · 08:20 — see below)* | BBC 6ME ep-171214 | 2026-09-14 |

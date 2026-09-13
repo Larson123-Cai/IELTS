@@ -9,3 +9,14 @@
 | 2026-09-13 | 学习时间，请参考下面的时间段 | Please use these time slots for study: 8–10 a.m. and 8–10 p.m. | time slots; a.m. / p.m. | 8–10 要写清上下午 |
 | 2026-09-13 | Audio+ 3 sentences out loud 是什么意思呢？ | What exactly does “audio + 3 sentences out loud” mean? | What exactly does X mean? | 问指令时用这句 |
 | 2026-09-13 | 5 phrases 和 5 sentences 又是什么意思呢？ | Do I make one sentence with each of the five phrases in vocab.md? | make a sentence with | 造句 = make a sentence with |
+| 2026-09-13 | 请按本次的最终沟通的记录，修改周度计划 | Please update the weekly plan to match what we just agreed. | update X to match Y | 按最终稿改文件 |
+| 2026-09-13 | 下次提供学习计划时按同样的方式 | Next time, give the study plan in the same format. | in the same format | 同样的方式 = same format |
+
+## Friday 18 · 08:10–08:25
+
+**Yes / No：** 要改新错误吗？**不要。** 只看上表 **前 3 行** 的 Corrected 句子，在下面各打一遍。
+
+1.
+2.
+3.
+

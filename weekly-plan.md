@@ -9,9 +9,32 @@
 
 **Calendar:** start **Monday 14 September 2026**. Cycle 1, Week 0 (diagnostic).  
 **Clock:** only two windows — **08:00–10:00** and **20:00–22:00**. Study 60–90 minutes total. Always start at **08:00** and **20:00**; stop when the block is done (do not fill until 10:00 / 22:00).  
-**Lookahead rule:** the next two days are always written in full (clock time, material, output).
+**Lookahead rule:** the next two days are always written in full using the format below.
 
-Jump: [Next two days](#next-two-days-exact) · [This week 14–20 Sep](#this-week-14-20-sep-2026--cycle-1-week-0)
+Jump: [How to write a day](#how-every-future-plan-must-look) · [Next two days](#next-two-days-exact) · [This week 14–20 Sep](#this-week-14-20-sep-2026--cycle-1-week-0)
+
+## How every future plan must look
+
+Do **not** write “listen / vocab / PEEL” alone. Each block must have all of this:
+
+1. **Clock** start and stop (`08:00–08:07`)
+2. **Open** a named URL or file
+3. **Do** a number: 1 audio, 3 sentences, 2 times each
+4. **Yes / No** for the likely confusion
+5. **Don't** list
+6. **Done =** one visible output (tick, sentence, recording)
+7. **Stop** at the end time even if it feels unfinished
+
+Copy this skeleton for any new day:
+
+```
+### DATE (weekday)
+| Clock | 打开 | 做什么 | 完成标准 |
+| 08:00–08:07 | URL | … | … |
+**Yes / No**
+| 问题 | 答案 |
+**不要做：** …
+```
 
 ## Next two days (exact)
 
@@ -92,46 +115,126 @@ If 08:00 is late: still do the 6-minute audio + 3 sentences. Move the 5 sentence
 - [ ] 文件里有段落
 - [ ] 已发到对话框
 
-### Day 2 — Tuesday 15 September 2026 (read + speak day)
+### Day 2 — Tuesday 15 September 2026
 
-Two clock sessions. Total **~70 min**. Do not skip the recording.
+Total **~70 min**. Same method as Monday: clock, file, count, then stop.
 
-| Clock | Min | Task |
-|---|---|---|
-| **08:00–08:20** | 20 | Same audio, second listen |
-| **08:20–08:30** | 10 | Say Monday’s 5 vocab sentences aloud |
-| **20:00–20:20** | 20 | Read intro + 1 main-idea sentence |
-| **20:20–20:35** | 15 | Record weekday answer twice |
+| Clock | 打开 | 做什么 | 完成标准 |
+|---|---|---|---|
+| **08:00–08:07** | [同一音频](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214) | 点播放，听完 1 遍。不暂停、不查词。 | 听到节目结束 |
+| **08:07–08:20** | [listening/2026-09-14.md](listening/2026-09-14.md) | **只读** 周一那 3 句。每句出声 **1 遍**（比周一快）。不要第 4 句。 | 3 句都读过；勾 Tuesday 框 |
+| **08:20–08:30** | [vocab.md](vocab.md) 里你写的 `My sentence:` | 把你昨天写的句子 **出声读 1 遍**。不写新词。 | 读完就停 |
+| **20:00–20:20** | 同一 BBC 页面 + [reading/2026-09-15.md](reading/2026-09-15.md) | 只读页面 **开头介绍 + Vocabulary 框**（约 150–250 词）。写 **1 句**英文大意。从 Vocabulary 框 **抄 3 个词**，各造 1 句填表。 | 文件里有 1 句大意 + 3 行表格 |
+| **20:20–20:35** | 手机录音 + [speaking/2026-09-15.md](speaking/2026-09-15.md) | 回答 *How do you spend a normal weekday?* **60 秒**。听一遍。只改 **1 处**。再录一遍。 | 两段录音 + 文件里写了那 1 处修改 |
 
-If morning is cut short: keep **08:00 listening**; move vocab-aloud to **20:00–20:10**, then reading / speaking after that.
+**Yes / No**
 
-| Clock | Do this | Output |
-|---|---|---|
-| 08:00–08:20 | **Same audio** as Monday. Shadow Monday’s 3 sentences faster, then 2 extra from the transcript. Note 3 missed words. | [listening/2026-09-14.md](listening/2026-09-14.md) Tuesday section |
-| 08:20–08:30 | Open `vocab.md` Monday 14 sentences. Read each **out loud**. No new list. | Tick |
-| 20:00–20:20 | Read the **introduction + vocabulary box** on the same BBC page (~150–250 words). One English main-idea sentence + 3 phrases with your example. Do not translate the whole text. | [reading/2026-09-15.md](reading/2026-09-15.md) |
-| 20:20–20:35 | Record **60 seconds**: *How do you spend a normal weekday?* Listen once. Fix **one** thing. Record again. Stop by **20:35**. | [speaking/2026-09-15.md](speaking/2026-09-15.md) |
+| 问题 | 答案 |
+|---|---|
+| 周二还要自己找新句子吗？ | **不要。** 早上只读周一那 3 句，每句 1 遍。 |
+| 阅读要翻译全文吗？ | **不要。** 只写 1 句大意 + 3 个词造句。 |
+| 口语要写稿再读吗？ | **不要。** 直接说 60 秒。 |
 
-- [ ] 08:00 second listen + 5 shadow sentences
-- [ ] 08:20 vocab aloud
-- [ ] 20:00 main-idea sentence + 3 phrases
-- [ ] 20:20 two recordings (first + one repair)
+**不要做：** 新音频、新单词表、第二遍精听、把录音发到聊天（文字记下 1 处修改即可）。
+
+- [ ] 08:00 音频 1 遍
+- [ ] 08:07 三句各 1 遍
+- [ ] 08:20 自己的 5 句出声
+- [ ] 20:00 大意 + 3 句
+- [ ] 20:20 录 2 次
+
+---
+
+### Day 3 — Wednesday 16 September 2026
+
+| Clock | 打开 | 做什么 | 完成标准 |
+|---|---|---|---|
+| **08:00–08:15** | [listening/2026-09-14.md](listening/2026-09-14.md) | **只读** 那 3 句。每句出声 **2 遍**。不必开新音频。 | 3 句 × 2 遍 |
+| **20:00–20:05** | [writing/2026-09-16.md](writing/2026-09-16.md) | 填 Outline：立场 + 理由 1 + 理由 2（各配一个真人例子）。 | 三个空都有字 |
+| **20:05–20:30** | 同一文件 | 写成 **一段** 80–120 词。题目仍可以是周一那题，或：*Is studying English after a full-time job realistic?* 发到对话框。 | 一段话已发送 |
+
+**Yes / No：** 早上要听新节目吗？**不要。** 只要读旧的 3 句。晚上要写 4 段吗？**不要。** 只要 1 段。
+
+- [ ] 08:00 三句 × 2
+- [ ] 20:00 提纲 + 一段 + 已发送
+
+---
+
+### Day 4 — Thursday 17 September 2026
+
+| Clock | 打开 | 做什么 | 完成标准 |
+|---|---|---|---|
+| **08:00–08:15** | [listening/2026-09-14.md](listening/2026-09-14.md) | 同一 3 句，每句出声 **1 遍**。 | 读完 3 句 |
+| **20:00–20:20** | BBC 同一页的 **transcript 下一段**（周二读过的后面那一段）+ [reading/2026-09-17.md](reading/2026-09-17.md) | 读约 150–250 词。写 1 句大意。抄 3 个词各造 1 句。不翻译全文。 | 文件填完 |
+| **20:20–20:35** | [speaking/2026-09-17.md](speaking/2026-09-17.md) | 录 60 秒：*What do you do to relax after work?* 听一遍，改 1 处，再录一遍。 | 两段录音 + 1 处修改写在文件里 |
+
+**Yes / No：** 要换新文章吗？**不要。** 还是 14 号那个 BBC 页，只是往下读一段。
+
+- [ ] 08:00 三句 × 1
+- [ ] 20:00 阅读文件
+- [ ] 20:20 口语 2 次
+
+---
+
+### Day 5 — Friday 18 September 2026
+
+| Clock | 打开 | 做什么 | 完成标准 |
+|---|---|---|---|
+| **08:00–08:10** | [listening/2026-09-14.md](listening/2026-09-14.md) | 同一 3 句，每句出声 **1 遍**。 | 读完 |
+| **08:10–08:25** | [errors.md](errors.md) → 文末 **Friday 18** | 只处理表里 **前 3 行**。把 Corrected 那一句 **手打一遍** 到 Friday 18 区域。 | 3 句已抄写 |
+| **20:00–20:25** | [writing/2026-09-14.md](writing/2026-09-14.md) 和 [writing/2026-09-18-rewrite.md](writing/2026-09-18-rewrite.md) | **重写周一那一段。** 最多改 **3 处**。不要新作文。 | rewrite 文件里有新段落 |
+
+**Yes / No：** 周五要写新题目吗？**不要。** 只改周一的段落，最多 3 处。
+
+- [ ] 08:00 三句
+- [ ] 08:10 错句 3 条
+- [ ] 20:00 重写已完成
+
+---
+
+### Day 6 — Saturday 19 September 2026
+
+| Clock | 打开 | 做什么 | 完成标准 |
+|---|---|---|---|
+| **08:00–08:50** | 有剑桥真题书：只做 **Listening Section 1**。没有书：再打开 [同一音频](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214) 听 1 遍 | 有书：做题、对答案。没书：听完后在 [listening/2026-09-19.md](listening/2026-09-19.md) 写下 **5 个没听清的词**。 | 文件有分数 **或** 5 个词 |
+| **20:00–20:20** | 手机录音 + [speaking/2026-09-19.md](speaking/2026-09-19.md) | 准备 **1 分钟**。说 **1 分钟**：*Describe a typical working day.* 听一遍，写下 5 个关键词。不写全文稿。 | 一段录音 + 5 个词 |
+| **20:20–20:35** | [vocab.md](vocab.md) `My sentence:` | 把周一那 5 句 **出声读 1 遍**。不加新词。 | 读完 |
+
+**Yes / No：** 没有真题书能做周六吗？**能。** 用同一集 BBC + 写 5 个没听清的词。不要临时下新 APP。
+
+- [ ] 08:00 听力
+- [ ] 20:00 口语 1 分钟
+- [ ] 20:20 旧句子出声
+
+---
+
+### Day 7 — Sunday 20 September 2026
+
+| Clock | 打开 | 做什么 | 完成标准 |
+|---|---|---|---|
+| **08:00** | 可跳过 | 若有余力：同一 3 句各读 1 遍。 | 可选 |
+| **20:00–20:20** | [weekly-plan.md](weekly-plan.md) 本周表格 | 给实际做完的项打勾。在 `errors.md` 文末写下周只盯 **1 件事**（冠词 / 例子 / 数字 三选一）。不要加新教材。 | 勾选完成 + 1 个下周焦点 |
+
+**不要做：** 补写一周没做的全部作业、买新书、做整套雅思。
+
+- [ ] 20:00 复盘打勾
+- [ ] 写下下周 1 个焦点
 
 ---
 
 ## This week (14–20 Sep 2026 · Cycle 1, Week 0)
 
-Goal: prove the blocks work. No full mock. Start **tomorrow (Mon 14)**. Today (Sun 13) is rest / read this page only.
+Start **Mon 14**. Today (Sun 13) only read the plan.
 
-| Date | 08:00–10:00 | 20:00–22:00 | Done |
+| Date | 08:00 窗口（做完就停） | 20:00 窗口（做完就停） | Done |
 |---|---|---|---|
-| **Mon 14** | 08:00 listen 20 min; 08:20 vocab 15 min | 20:00 write PEEL 30 min; send paragraph | [ ] |
-| **Tue 15** | 08:00 same audio 20 min; 08:20 vocab aloud 10 min | 20:00 read 20 min; 20:20 speak 15 min | [ ] |
-| **Wed 16** | 08:00 hardest 60 seconds × shadow 3 lines (20 min) | 20:00 outline + PEEL in `writing/2026-09-16.md` (25 min). Same topic OK. | [ ] |
-| **Thu 17** | 08:00 replay 3 muddy sentences (15 min) | 20:00 next paragraph → `reading/2026-09-17.md` (20 min); 20:20 record *What do you do to relax after work?* → `speaking/2026-09-17.md` (15 min) | [ ] |
-| **Fri 18** | 08:00 light listen (15 min); 08:15 error-loop: rewrite 3 lines from `errors.md` (15 min) | 20:00 rewrite Monday in `writing/2026-09-18-rewrite.md`, at most 3 fixes (25 min) | [ ] |
-| **Sat 19** | 08:00 mini listening 40–50 min → score + 5 words in `listening/2026-09-19.md` | 20:00 Part 2: *Describe a typical working day* 20 min; 20:20 old vocab only 15 min | [ ] |
-| **Sun 20** | skip morning, or 08:00 replay hardest 60 seconds (15 min) | 20:00 tick this table + pick one focus for 21–27 Sep (15–20 min). Fill next two days before you stop. | [ ] |
+| **Mon 14** | 08:00 音频 1 遍；08:07 三句各 2 遍；08:20 五短语各造 1 句 | 20:00 写 80–120 词并发出 | [ ] |
+| **Tue 15** | 08:00 同一音频 1 遍；08:07 三句各 1 遍；08:20 读自己的句子 | 20:00 读介绍+词表；20:20 口语 60 秒 ×2 | [ ] |
+| **Wed 16** | 08:00 旧三句各 2 遍 | 20:00 提纲 5 分 + 一段 80–120 词并发出 | [ ] |
+| **Thu 17** | 08:00 旧三句各 1 遍 | 20:00 同一页下一段；20:20 放松话题 60 秒 ×2 | [ ] |
+| **Fri 18** | 08:00 旧三句；08:10 错句 3 条手打 | 20:00 重写周一，最多改 3 处 | [ ] |
+| **Sat 19** | 08:00 Section 1 或同一音频 + 5 个词 | 20:00 描述工作日 1 分钟；20:20 旧词汇出声 | [ ] |
+| **Sun 20** | 可选：三句各 1 遍 | 20:00 打勾 + 下周只选 1 个焦点 | [ ] |
 
 **Week focus (only one):** complete sentences + one concrete example. Not new textbooks.
 
@@ -139,7 +242,7 @@ Goal: prove the blocks work. No full mock. Start **tomorrow (Mon 14)**. Today (S
 
 1. [BBC 6 Minute English — Should schoolchildren have jobs?](https://www.bbc.co.uk/learningenglish/features/6-minute-english/ep-171214)
 2. `vocab.md` / `errors.md`
-3. Your own recordings + writing files under `writing/` `speaking/` `listening/` `reading/`
+3. Daily files under `writing/` `speaking/` `listening/` `reading/`
 
 ---
 
@@ -164,8 +267,8 @@ Pick 3–5. Stop when you hit 60–120 minutes.
 
 | Block | Minutes | What you produce |
 |---|---|---|
-| Morning listen | 15–20 | 08:00: 3 shadowed sentences |
-| Vocab | 10–15 | 08:20: 5 cards or 1 original sentence in `vocab.md` |
+| Morning listen | 15–20 | 08:00: play audio 1 time; then 3 printed sentences out loud |
+| Vocab | 10–15 | 08:20: 5 phrases, 1 new sentence each in `vocab.md` |
 | Read-micro | 20 | 1 paragraph: main idea + 3 unknown phrases |
 | Speak-micro | 15 | 1 recorded answer (45–90 seconds) |
 | Write-micro | 20–25 | 4–6 sentences, or 1 PEEL paragraph |
