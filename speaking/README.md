@@ -1,12 +1,15 @@
 # Speaking
 
-This folder belongs to the **Speaking tutor chat**. Shared learner files stay at the repo root so Writing / Reading / Listening can reuse them.
+This folder belongs to the **Speaking tutor chat**.
 
-## Shared files (do not overwrite)
-- `PROFILE.md` — target IELTS 7.5, current ~band 5, max 3 corrections
-- `vocab.md` — append new phrases after each round
-- `errors.md` — append spoken error patterns after each round
-- `weekly-plan.md` — this week: 3 everyday answers using new phrases
+The four root files are **shared with Writing**. Speaking does not create or replace them. Writing keeps the files; Speaking only **appends** rows after a practice round.
+
+| Shared file | Speaking may do | Speaking must not do |
+|---|---|---|
+| `PROFILE.md` | Read the goal and correction rules | Rewrite the profile |
+| `vocab.md` | Append new spoken phrases | Change the table header or wipe rows |
+| `errors.md` | Append spoken error patterns | Change the table header or wipe rows |
+| `weekly-plan.md` | Tick the Speaking checkbox | Replace Writing / Reading / Listening tasks |
 
 ## This chat
 - Default: English. Short Chinese only when a rule or word needs a gloss.
